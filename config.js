@@ -1,0 +1,6 @@
+const MIN_SATELLITES = 6;
+const LOG_LENGTH = 20;
+
+const GAIA_API_KEY = process.env.GAIA_API_KEY;
+
+export {MIN_SATELLITES, LOG_LENGTH, GAIA_API_KEY}
